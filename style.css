@@ -1,0 +1,46 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #F8DA3F;
+    color: #3B3232;
+  }
+
+.main {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 16;
+  color: #1C1A1A;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid #1C1A1A;
+    text-align: center;
+    background-color: #0094FF;
+  }
+
+  th,
+  td {
+    padding: 10px;
+    text-align: center;
+    font-size: 12;
+    line-height: 1.6;
+    width: 160px;
+    border: 3px solid #1C1A1A;
+  }
+
+  a:link, a:visited, a:active{
+    text-decoration: none;
+    color: #1C1A1A;
+  }
+
+  a:hover {
+    color: #F23634;
+    text-decoration: underline;
+  }
+
+  img {
+    border-radius: 10%;
+  }
